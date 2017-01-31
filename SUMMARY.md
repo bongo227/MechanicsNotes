@@ -1,6 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [Graph test](graph-test.md)
+
+## Moments and Centers of Mass
+
+* [Moments](moments-and-centers-of-mass/moments.md)
 
