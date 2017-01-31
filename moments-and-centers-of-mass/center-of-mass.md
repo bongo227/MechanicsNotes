@@ -1,2 +1,4 @@
-# Friction and limiting equalibrium
+# Center of mass
+
+
 
