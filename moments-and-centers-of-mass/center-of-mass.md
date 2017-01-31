@@ -1,0 +1,2 @@
+# Friction and limiting equalibrium
+
