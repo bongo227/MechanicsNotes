@@ -1,4 +1,4 @@
-## Moments
+# Moments
 
 A moment is a turning force about a point expressed by a $$m = Fd$$ where $$m$$ is the moment $$F$$ is the magnitude of the force and $$d$$ is the distance from the pivot.
 
