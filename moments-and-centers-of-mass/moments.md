@@ -4,7 +4,7 @@ A moment is a turning force about a point expressed by a $$m = Fd$$ where $$m$$ 
 
 If more that one force is acting on the pivot we must add all the moments to find the total moment about that point. If the sum of the moments equals zero then the pivot will be at **equilibrium** (it won't rotate).
 
-If the forces are acting in opisite directions make one direction posative and the other negative then sum the moments the same way.
+If the forces are acting in opposite directions make one direction positive and the other negative then sum the moments the same way.
 
 #### Example
 ![](/assets/Capture.PNG)
@@ -22,19 +22,19 @@ $$
 
 ## "Ladder" questions
 
-"Ladder" questions occor when a rigid body rest against the wall and ground. The wall or ground may be rough so you may need to account for friction using: $$F = \mu R$$.
+"Ladder" questions occur when a rigid body rest against the wall and ground. The wall or ground may be rough so you may need to account for friction using: $$F = \mu R$$.
 
 #### Example 1
 A ladder of mass 9kg and length 4.8m rests in limiting equilibrium against a rough wall on a rough ground. The normal reaction against the wall is 22N, and 75N against the ground.
 ![](/assets/Capture3.PNG)
 
 ###### The angle that the ladder makes with the ground
-Resolve horizontaly
+Resolve horizontally
 $$
 F_G = 22\n
 $$
 
-Resolve veriticaly
+Resolve vertically
 $$
 \begin{align}
 75 + F_W &= 9g\\
