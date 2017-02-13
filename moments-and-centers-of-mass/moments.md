@@ -25,16 +25,16 @@ $$
 "Ladder" questions occur when a rigid body rest against the wall and ground. The wall or ground may be rough so you may need to account for friction using: $$F = \mu R$$.
 
 #### Example 1
-A ladder of mass 9kg and length 4.8m rests in limiting equilibrium against a rough wall on a rough ground. The normal reaction against the wall is 22N, and 75N against the ground.
+A ladder of mass 9kg and length 4.8m rests in limiting equilibrium against a rough wall on a rough ground. The normal reaction against the wall is 22N, and 75N against the ground. Find the angle that the ladder makes with the ground. 
+
 ![](/assets/Capture3.PNG)
 
-###### The angle that the ladder makes with the ground
-Resolve horizontally
+###### Resolve horizontally
 $$
 F_G = 22\n
 $$
 
-Resolve vertically
+###### Resolve vertically
 $$
 \begin{align}
 75 + F_W &= 9g\\
@@ -42,7 +42,7 @@ F_W &= 13.2\n
 \end{align}
 $$
 
-Moments about the base of the ladder
+###### Moments about the base of the ladder
 $$
 \begin{align}
 9g\cos(\alpha) \times 24 &= (22\sin(\alpha) \times 4.8) + (13.2\cos(\alpha) \times 4.8)\\
@@ -71,12 +71,11 @@ F_G &= \mu R\\
 $$
 
 #### Example 2
+A uniform ladder of mass 10 kg and length 6 m rests with one end on rough, horizontal ground and the other end against a smooth, vertical wall. The coefficient of friction between the ground and the ladder is 0.3, and the ladder makes an angle of 65° with the ground. How far can the 50kg object move up the ladder before it slips
+
 ![](/assets/Capture4.PNG)
 
-A uniform ladder of mass 10 kg and length 6 m rests with one end on rough, horizontal ground and the other end against a smooth, vertical wall. The coefficient of friction between the ground and the ladder is 0.3, and the ladder makes an angle of 65° with the ground.
-
-###### How far can the 50kg object move up the ladder before it slips
-Resolve vertically
+###### Resolve vertically
 $$
 \begin{align}
 R &= 10g + 50g\\
@@ -84,7 +83,7 @@ R &= 10g + 50g\\
 \end{align}
 $$
 
-Find $$N$$
+###### Find $$N$$
 $$
 \begin{align}
 N &= F = \mu R\\
@@ -93,7 +92,7 @@ N &= F = \mu R\\
 \end{align}
 $$
 
-Moments about base
+###### Moments about base
 $$
 \begin{align}
 176.5\sin(65) \times 6 &= 10g \times \cos(65) \times 3 + 50g \times \cos(65) \times x \\
