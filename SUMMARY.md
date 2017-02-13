@@ -12,4 +12,5 @@
   * [Differential equations](kinemtaics/differential-equations.md)
 * Work, Energy and Power
   * [Work done](work-done.md)
+  * [Kinetic energy](kinetic-energy.md)
 

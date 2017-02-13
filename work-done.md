@@ -1,5 +1,5 @@
 # Work done
-The work done by a force is when the force moves an object through a distance. $$w = Fs$$ where $$w$$ is work done, $$F$$ is the force acting on the object and $$s$$ is the distance the object was displaced.
+The work done by a force is when the force moves an object through a distance, a transfer of energy. $$w = Fs$$ where $$w$$ is work done, $$F$$ is the force acting on the object and $$s$$ is the distance the object was displaced.
 
 #### Example
 Given the following system moves 3.5m, and the work done on the object is 28J, find the force of friction.
