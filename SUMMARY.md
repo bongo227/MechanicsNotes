@@ -9,4 +9,5 @@
 * [Kinematics](kinemtaics.md)
   * [Differentiating](kinemtaics/differentiating.md)
   * [Integrating](kinemtaics/integrating.md)
+  * [Differential equations](kinemtaics/differential-equations.md)
 
