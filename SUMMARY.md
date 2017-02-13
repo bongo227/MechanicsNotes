@@ -10,4 +10,6 @@
   * [Differentiating](kinemtaics/differentiating.md)
   * [Integrating](kinemtaics/integrating.md)
   * [Differential equations](kinemtaics/differential-equations.md)
+* Work, Energy and Power
+  * [Work done](work-done.md)
 

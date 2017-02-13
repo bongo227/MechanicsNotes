@@ -27,7 +27,7 @@ $$
 \end{align}
 $$
 
-###### Simplify
+###### Rearrange
 $$
 \begin{align}
 -\frac{5}{4}\ln\left|g - \frac{4}{5}v\right| &= t -\frac{5}{4}\ln|g|\\
