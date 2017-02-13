@@ -37,13 +37,5 @@ g - \frac{4}{5}v &= e^{-\frac{4}{5}t} \times e^{\ln|g|}\\
 g - \frac{4}{5}v &= ge^{-\frac{4}{5}t}\\
 -\frac{4}{5}v &= ge^{-\frac{4}{5}t} - g\\
 v &= -\frac{5}{4}g(e^{-\frac{4}{5}t} - 1)\\
-
-
-
-
-
-
-
-
 \end{align}
 $$
