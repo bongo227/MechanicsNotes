@@ -2,7 +2,7 @@
 Kinetic energy is the measure of the objects energy due to movement, $$\text{K.E.} = \frac{1}{2}mv^2$$. The change in kinetic energy is the transfer in energy, hence the work done by movement.
 
 #### Example
-A mass of 11kg is pulled at an angle of $$15^\circ$$. The tension in the rope is 65 N, the coefficent of friction is 0.19, find the distance it travels as it acceleates between $$2\text{ms}^{-1}$$ and $$14\text{ms}^{-1}$$.
+A mass of 11kg is pulled at an angle of $$15^\circ$$. The tension in the rope is $$65\text{ N}$$, the coefficent of friction is $$0.19$$, find the distance it travels as it acceleates between $$2\text{ms}^{-1}$$ and $$14\text{ms}^{-1}$$.
 ![](/assets/Capture10.PNG)
 
 ###### Find $$F$$
@@ -32,6 +32,6 @@ $$$$
 1056 &= Fs\\
 &= (65\cos(15) - 17.3) \times s\\
 s &= 23.216\\
-&= 23.2
+&= 23.2\text{ m}
 \end{align}
 $$

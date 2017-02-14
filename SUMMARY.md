@@ -13,4 +13,6 @@
 * Work, Energy and Power
   * [Work done](work-done.md)
   * [Kinetic energy](kinetic-energy.md)
+  * [Gravitational potential energy](gravitational-potential-energy.md)
+  * [Work-energy principle](work-energy-principle.md)
 
