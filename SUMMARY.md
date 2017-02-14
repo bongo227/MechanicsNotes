@@ -14,5 +14,6 @@
   * [Work done](work-done.md)
   * [Kinetic energy](kinetic-energy.md)
   * [Gravitational potential energy](gravitational-potential-energy.md)
+  * [Conservation of mechanical energy](conservation-of-mechanical-energy.md)
   * [Work-energy principle](work-energy-principle.md)
 
