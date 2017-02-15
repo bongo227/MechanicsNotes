@@ -19,4 +19,6 @@
   * [Elastic potential energy](elastic-potential-energy.md)
   * [Power](power.md)
   * [Variable resistive forces](variable-resistive-forces.md)
+* Uniform Circular Motion
+  * [Circular motion](circular-motion.md)
 
