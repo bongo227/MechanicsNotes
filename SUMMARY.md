@@ -22,4 +22,5 @@
 * Uniform Circular Motion
   * [Circular motion](circular-motion.md)
   * [Conical pendulums](conical-pendulums.md)
+  * [Vertical circular motion](vertical-circular-motion.md)
 

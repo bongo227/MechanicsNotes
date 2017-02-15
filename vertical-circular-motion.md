@@ -1,0 +1,2 @@
+# Vertical circular motion
+The velocity of a body on a vertical circular path is constantly changing as gravity accelerates the mass until it reaches the lowest point, then the kinetic energy is convereted into gravitation potential energy as the body moves to the highest point.
