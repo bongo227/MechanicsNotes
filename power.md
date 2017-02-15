@@ -15,6 +15,7 @@ $$
 Given the body has a mass of $$660\text{ kg}$$ and the power of the system is $$16\text{ kW}$$ what is the vehicles maximum speed.
 ![](/assets/Capture14.PNG)
 
+###### Find $$F$$
 $$
 \begin{align}
 F &= ma\\
@@ -23,6 +24,7 @@ F &= 2031\text{ N}\\
 \end{align}
 $$
 
+###### Find $$v$$
 $$
 \begin{align}
 16000 &= 2031 \times v\\
