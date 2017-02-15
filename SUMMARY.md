@@ -18,4 +18,5 @@
   * [Work-energy principle](work-energy-principle.md)
   * [Elastic potential energy](elastic-potential-energy.md)
   * [Power](power.md)
+  * [Variable resistive forces](variable-resistive-forces.md)
 
