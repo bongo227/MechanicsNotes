@@ -21,4 +21,5 @@
   * [Variable resistive forces](variable-resistive-forces.md)
 * Uniform Circular Motion
   * [Circular motion](circular-motion.md)
+  * [Conical pendulums](conical-pendulums.md)
 
