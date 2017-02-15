@@ -17,4 +17,5 @@
   * [Conservation of mechanical energy](conservation-of-mechanical-energy.md)
   * [Work-energy principle](work-energy-principle.md)
   * [Elastic potential energy](elastic-potential-energy.md)
+  * [Power](power.md)
 
